@@ -7,7 +7,14 @@
   pointer-events: none;
 }
 a {
-  margin: 1rem;
+  margin: 5rem;
+  font-weight: bold;
+  color: #282c34;
+  font-size: 2rem;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(223, 91, 91);
 }
 
 @media (prefers-reduced-motion: no-preference) {
